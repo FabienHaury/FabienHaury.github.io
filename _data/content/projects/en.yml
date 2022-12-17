@@ -5,13 +5,13 @@
 page_data:
   main:
     header: "Projects"
-    info: "Your Project page description."
+    # info: "Your Project page description."
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
-    img: ":projects-heading.jpg"
+    img: ":home-heading.jpg"
     back_color: "lightblue"
 
-   category:
+  category:
     - title: "Example"
       type: id_example
       color: "gray"
@@ -23,13 +23,13 @@ page_data:
       color: "#2FD0ED"
 
   list:
-    # example
+    # Projet 1
     - type: id_example
-      project_name: "Example Project"
-      project_excerpt: "Examples"
-      img: ":project1_thumb.jpg"
-      img_title: "img title1"
-      date: "2021-03-13"
+      project_name: "Manipulation et prétraitement de données"
+      project_excerpt: "La manipulation et le prétraitement de données n’est sans doute pas la partie la plus fascinante de la Data Science, mais il s’agit d’une étape incontournable pour toute analyse de données."
+      img: ":data_wrangling.png"
+      img_title: "Data wrangling"
+      date: "2022-05-01"
       post: |
         # Examples
 
