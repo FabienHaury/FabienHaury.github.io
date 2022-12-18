@@ -39,10 +39,10 @@ page_data:
       date: "2022-05-01"
       post: |
        # Goals of this project : 
-        -Learning about missing data
-        -Problems detection
-        -Finding outliers
-        -Preliminary results
+        - Learning about missing data
+        - Problems detection
+        - Finding outliers
+        - Preliminary results
         
 
 # Projet 2
@@ -54,9 +54,9 @@ page_data:
       date: "2022-06-03"
       post: |
        # Goals of this project : 
-        -Showing skill to modify a plot
-        -Animated plot
-        -Spatial data
+        - Showing skill to modify a plot
+        - Animated plot
+        - Spatial data
 
 
 # Projet 3
@@ -68,15 +68,15 @@ page_data:
       date: "2022-07-06"
       post: |
        # Goals of this project : 
-        -chi2 & mosaic plot
-        -linear model & unpaired test
-        -t test
-        -Pearson/Spearman correlation
-        -ANOVA without & with interaction
-        -logistic regression
-        -Odd ratios
-        -Poisson distribution
-        -QQ plot
+        - chi2 & mosaic plot
+        - linear model & unpaired test
+        - t test
+        - Pearson/Spearman correlation
+        - ANOVA without & with interaction
+        - Logistic regression
+        - Odd ratios
+        - Poisson distribution
+        - QQ plot
 
 # Projet 4
     - type: id_latex
@@ -87,11 +87,10 @@ page_data:
       date: "2022-07-06"
       post: |
        # Goals of this project :
-        -Personal research
-        -Focus on research question
-        -Hypothetico-deductive method/Exploratory method and such
-        -Kaggle survey dataset :
-         -Study of the socio-demographic and socio-professional influences on the number of programming languages used in daily life by people practicing practicing Data Science
+        - Personal research
+        - Focus on research question
+        - Hypothetico-deductive method/Exploratory method and such
+        - Kaggle survey dataset : Study of the socio-demographic and socio-professional influences on the number of programming languages used in daily life by people practicing practicing Data Science
 
 # Projet 5
     - type: id_ml
@@ -102,13 +101,13 @@ page_data:
       date: "2022-07-06"
       post: |
        # Goals of this project :
-        -Unsupervised machine learning
-         -Dimensionnal reduction
-          -PCA
-          -MCA
-         -Clustering
-          -k-means
-          -HAC
+        - Unsupervised machine learning
+         - Dimensionnal reduction
+          - PCA
+          - MCA
+         - Clustering
+          - k-means
+          - HAC
 
 # Projet 6
     - type: id_ml
@@ -119,9 +118,9 @@ page_data:
       date: "2022-07-06"
       post: |
        # Goals of this project :
-        -Supervised machine learning
-         -Classification tree 
-         -RandomForest
-         -Bagging/Bootstrapping
-         -Metrics
-         -Hyperparameters & grid search
+        - Supervised machine learning
+         - Classification tree 
+         - RandomForest
+         - Bagging/Bootstrapping
+         - Metrics
+         - Hyperparameters & grid search
