@@ -5,7 +5,7 @@
 page_data:
   main:
     header: "Projects"
-    info: "I have ti put something here or else"
+    info: "I have to put something here or else"
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":home-heading.jpg"
@@ -100,7 +100,7 @@ page_data:
 
         ### Link
 
-        This is the [notebook]({{FabienHaury.github.io}}/assets/notebook_haury_fabien.pdf), and the report [Jekyll]({{FabienHaury.github.io}}/assets/rapport_haury_fabien.pdf).
+        This is the [notebook]({{ FabienHaury.github.io }}/assets/notebook_haury_fabien.pdf), and the [report]({{ FabienHaury.github.io }}/assets/rapport_haury_fabien.pdf).
 
         ### Picture
 
