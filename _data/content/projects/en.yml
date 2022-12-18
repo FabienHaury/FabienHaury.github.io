@@ -12,20 +12,26 @@ page_data:
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Wrangling"
+      type: id_wrangling
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "Visualization"
+      type: id_visualization
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
+    - title: "Statistics"
+      type: id_statistics
       color: "#2FD0ED"
+    - title: "LaTeX
+      type: id_latex
+      color: "#E6DC15"
+    - title: "Machine learning"
+      type: id_ml
+      color: "#3393FF"
 
 
   list:
     # Projet 1
-    - type: id_example
+    - type: id_wrangling
       project_name: "Data manipulation and pre-processing"
       project_excerpt: "Data manipulation and pre-processing may not be the most fascinating part of data science, but it is a necessary step for any data analysis."
       img: ":data_wrangling.png"
@@ -174,7 +180,7 @@ page_data:
 
 
 # Projet 2
-    - type: id_example
+    - type: id_visualization
       project_name: "Data visualization techniques."
       project_excerpt: "Being able to produce figures of impeccable quality is one of the qualities expected of a data analyst."
       img: ":data_visualization.jpg"
@@ -313,7 +319,7 @@ page_data:
 
 
 # Projet 3
-    - type: id_example
+    - type: id_statistics
       project_name: "Introduction to statistics"
       project_excerpt: "Statistics are an indispensable tool in data analysis."
       img: ":statistics.jpg"
@@ -454,7 +460,7 @@ page_data:
         ```
 
 # Projet 4
-    - type: id_example
+    - type: id_latex
       project_name: "Report writing"
       project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
       img: ":latex_logo.png"
@@ -595,7 +601,7 @@ page_data:
         ```
 
 # Projet 5
-    - type: id_example
+    - type: id_ml
       project_name: "Dimensionality reduction and clustering techniques."
       project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
       img: ":dimension_reduc.png"
@@ -736,7 +742,7 @@ page_data:
         ```
 
 # Projet 6
-    - type: id_example
+    - type: id_ml
       project_name: "Introduction to machine learning."
       project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
       img: ":machine_learning.jpg"
