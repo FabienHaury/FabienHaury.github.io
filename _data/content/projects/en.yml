@@ -21,7 +21,7 @@ page_data:
     - title: "Statistics"
       type: id_statistics
       color: "#2FD0ED"
-    - title: "LaTeX
+    - title: "LaTeX"
       type: id_latex
       color: "#E6DC15"
     - title: "Machine learning"
