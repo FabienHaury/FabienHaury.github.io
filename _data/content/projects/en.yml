@@ -25,8 +25,8 @@ page_data:
   list:
     # Projet 1
     - type: id_example
-      project_name: "Manipulation et prétraitement de données"
-      project_excerpt: "La manipulation et le prétraitement de données n’est sans doute pas la partie la plus fascinante de la Data Science, mais il s’agit d’une étape incontournable pour toute analyse de données."
+      project_name: "Data manipulation and pre-processing"
+      project_excerpt: "Data manipulation and pre-processing may not be the most fascinating part of data science, but it is a necessary step for any data analysis."
       img: ":data_wrangling.png"
       img_title: "Data wrangling"
       date: "2022-05-01"
