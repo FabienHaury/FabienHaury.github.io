@@ -27,6 +27,9 @@ page_data:
     - title: "Machine learning"
       type: id_ml
       color: "#3393FF"
+    - title: "BI"
+      type: id_bi
+      color: "#FF5733"
 
 
   list:
@@ -44,6 +47,9 @@ page_data:
         - Finding outliers
         - Preliminary results
         
+       ### Link
+        This is the [notebook](https://fabienhaury.github.io/assets/notebook_ue1_haury_fabien.pdf), and the [report](https://fabienhaury.github.io/assets/rapport_ue1_haury_fabien.pdf) for this project.
+        
 
 # Projet 2
     - type: id_visualization
@@ -57,6 +63,9 @@ page_data:
         - Showing skill to modify a plot
         - Animated plot
         - Spatial data
+        
+       ### Link
+        This is the [notebook](https://fabienhaury.github.io/assets/notebook_ue2_haury_fabien.pdf), and the [report](https://fabienhaury.github.io/assets/rapport_ue2_haury_fabien.pdf) for this project.
 
 
 # Projet 3
@@ -77,6 +86,10 @@ page_data:
         - Odd ratios
         - Poisson distribution
         - QQ plot
+        
+       ### Link
+        This is the [notebook](https://fabienhaury.github.io/assets/notebook_ue3_haury_fabien.pdf), and the [report](https://fabienhaury.github.io/assets/rapport_ue3_haury_fabien.pdf) for this project.
+
 
 # Projet 4
     - type: id_latex
@@ -84,13 +97,17 @@ page_data:
       project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
       img: ":latex_logo.png"
       img_title: "LaTeX logo"
-      date: "2022-07-06"
+      date: "2022-09-07"
       post: |
        # Goals of this project :
         - Personal research
         - Focus on research question
         - Hypothetico-deductive method/Exploratory method and such
         - Kaggle survey dataset : Study of the socio-demographic and socio-professional influences on the number of programming languages used in daily life by people practicing practicing Data Science
+        
+       ### Link
+        This is the [notebook](https://fabienhaury.github.io/assets/notebook_ue4_haury_fabien.pdf), and the [report](https://fabienhaury.github.io/assets/rapport_ue4_haury_fabien.pdf) for this project.
+
 
 # Projet 5
     - type: id_ml
@@ -98,7 +115,7 @@ page_data:
       project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
       img: ":dimension_reduc.png"
       img_title: "Dimensionnality reduction"
-      date: "2022-07-06"
+      date: "2022-10-05"
       post: |
        # Goals of this project :
         - Unsupervised machine learning
@@ -108,6 +125,10 @@ page_data:
          - Clustering
           - k-means
           - HAC
+          
+       ### Link
+        This is the [notebook](https://fabienhaury.github.io/assets/notebook_ue5_haury_fabien.pdf) for this project.
+
 
 # Projet 6
     - type: id_ml
@@ -115,7 +136,7 @@ page_data:
       project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
       img: ":machine_learning.jpg"
       img_title: "ML logo"
-      date: "2022-07-06"
+      date: "2022-10-24"
       post: |
        # Goals of this project :
         - Supervised machine learning
@@ -124,3 +145,19 @@ page_data:
          - Bagging/Bootstrapping
          - Metrics
          - Hyperparameters & grid search
+         
+       ### Link
+        This is the [notebook](https://fabienhaury.github.io/assets/notebook_ue5_haury_fabien.pdf) for this project.
+
+# Projet 7
+    - type: id_bi
+      project_name: "Introduction to Business Intelligence"
+      project_excerpt: "The objective of Business Intelligence is to support better decision making in the business, sales, marketing and finance verticals."
+      img: ":bi.png"
+      img_title: "BI logo"
+      date: "2022-12-08"
+      post: |
+       # Goals of this project : 
+        - Introducting BI concept
+        - Doing some Bi concept through Power BI
+        - Present your results to an audience.
