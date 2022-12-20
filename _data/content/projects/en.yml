@@ -112,7 +112,7 @@ page_data:
 # Projet 5
     - type: id_ml
       project_name: "Dimensionality reduction and clustering techniques."
-      project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
+      project_excerpt: "Dimensionality reduction and clustering techniques reduce the cost in memory space and computation time."
       img: ":dimension_reduc.png"
       img_title: "Dimensionnality reduction"
       date: "2022-10-05"
@@ -133,7 +133,7 @@ page_data:
 # Projet 6
     - type: id_ml
       project_name: "Introduction to machine learning."
-      project_excerpt: "Analyzing data is nice but being able to write a report to synthesize the results is just as important."
+      project_excerpt: "Machine Learning is a sub-category of artificial intelligence. It consists in letting algorithms discover patterns, i.e. recurring motifs, in data sets."
       img: ":machine_learning.jpg"
       img_title: "ML logo"
       date: "2022-10-24"
