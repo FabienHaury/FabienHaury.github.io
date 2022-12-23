@@ -36,7 +36,11 @@ img: ":home-heading.jpg"
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
-### test test
+- 👋 Hi, I’m @FabienHaury.
+- 👀 I’m interested in data analysis and data in general.
+- 🌱 I’m currently learning how to become a data analyst.
+- 💞️ I’m looking to collaborate on everything to grow my skills.
+- 📫 How to reach me : [email](mailto:67912775+FabienHaury@users.noreply.github.com)
 
 {{ website_info_text_first }}
 
