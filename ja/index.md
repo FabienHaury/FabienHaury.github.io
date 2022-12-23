@@ -37,7 +37,11 @@ img: ":home-heading.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
+- 👋 Bonjour, je suis Fabien Haury.
+- 👀 Je m'intéresse à l'analyse des données et aux données en général.
+- 🌱 Je suis actuellement en train d'apprendre à devenir un analyste de données.
+- 💞️ Je cherche à collaborer sur tout pour développer mes compétences.
+
 {{ website_info_text_first }}
 
 {{ website_info_text_second }}
